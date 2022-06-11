@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "Irina Kolbun"
@@ -17,4 +18,5 @@ format:
     toc: true
 
 editor: visual
+
 

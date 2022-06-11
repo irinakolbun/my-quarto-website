@@ -8,9 +8,9 @@ I am an undergraduate student that loves learning by doing. My main interests ar
 
 I enjoy cooking and eating out with people. I believe that sharing food is an important and efficient way to socialize.
 
-![That's me](profile_pic.JPEG)
+![That's me](images/profile_pic.JPEG)
 
-``` {r}
+```{r}
 #| layout-ncol: 2
 #| echo: false
 #| fig-cap: 
@@ -19,3 +19,7 @@ I enjoy cooking and eating out with people. I believe that sharing food is an im
 plot(cars)
 plot(pressure)
 ```
+
+This is my dog, Sparky
+
+![Sparky](images/Sparky.jpg){fig-alt="Sparky"}
