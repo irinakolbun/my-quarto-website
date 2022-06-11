@@ -2,6 +2,6 @@
 title: "Education"
 ---
 
-Kyiv Polytechnic Institute, Kyiv, Ukraine
+Kyiv Polytechnic Institute, *Kyiv, Ukraine*
 
-Bachelor of Software Engineering
+***Bachelor of Software Engineering***
