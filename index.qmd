@@ -1,0 +1,29 @@
+---
+title: "Irina Kolbun"
+---
+
+Hello, I am Irina!
+
+I am an undergraduate student that loves learning by doing. My main interests are mathematics and data analysis. I have some experience working as a data analyst for a product IT compamy in Ukraine.
+
+I enjoy cooking and eating out with people. I believe that sharing food is an important and efficient way to socialize.
+
+![That's me](profile_pic.JPEG)
+
+``` {r}
+#| layout-ncol: 2
+#| echo: false
+
+plot(cars)
+plot(pressure)
+```
+
+```{r}
+#| layout-ncol: 2
+#| fig-cap: 
+#|   - "Speed and Stopping Distances of Cars"
+#|   - "Vapor Pressure of Mercury as a Function of Temperature"
+
+plot(cars)
+plot(pressure)
+```
