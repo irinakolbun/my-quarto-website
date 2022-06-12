@@ -5,3 +5,5 @@ title: "Education"
 Kyiv Polytechnic Institute, *Kyiv, Ukraine*
 
 ***Bachelor of Software Engineering***
+
+**Related coursework:** Relational Databases, Data Warehouse Engineering, Statistics, Probability Theory, Calculus, Discrete Mathematics.
