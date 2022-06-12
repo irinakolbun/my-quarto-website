@@ -10,6 +10,7 @@ website:
         text: About me
       - projects.qmd
       - education.qmd
+      - kyiv_food.qmd
 
 format:
   html:
