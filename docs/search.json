@@ -1,5 +1,26 @@
 [
   {
+    "objectID": "kyiv_food.html",
+    "href": "kyiv_food.html",
+    "title": "Food in Kyiv",
+    "section": "",
+    "text": "My favorite places to get food in Kyiv"
+  },
+  {
+    "objectID": "kyiv_food.html#restaurants",
+    "href": "kyiv_food.html#restaurants",
+    "title": "Food in Kyiv",
+    "section": "Restaurants",
+    "text": "Restaurants\n\nHanh\nHoney\nZavertailo\nYizha\nMama Manana\nNamelaka\nPita"
+  },
+  {
+    "objectID": "kyiv_food.html#bars",
+    "href": "kyiv_food.html#bars",
+    "title": "Food in Kyiv",
+    "section": "Bars",
+    "text": "Bars\n\nKhvylovyy\nPink Freud\nNaproseko"
+  },
+  {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
